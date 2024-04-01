@@ -4,7 +4,6 @@ import NavBar from "../../components/NavBar";
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 import "./ContactUs.css"; // Import CSS file for styling
-import { redirect } from "react-router-dom";
 
 const ContactUs = () => {
   const [isHoveringOverLinkedIn, setIsHoveringOverLinkedIn] = useState(false);
