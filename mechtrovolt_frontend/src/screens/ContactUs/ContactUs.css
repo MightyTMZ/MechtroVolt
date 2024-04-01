@@ -1,0 +1,10 @@
+.linkedin-hover {
+    transition: color 0.3s ease;
+    color: #0e76a8; /* Change to desired hover color */
+  }
+  
+  .instagram-hover {
+    transition: color 0.3s ease;
+    color: #bc2a8d; /* Change to desired hover color */
+  }
+  
