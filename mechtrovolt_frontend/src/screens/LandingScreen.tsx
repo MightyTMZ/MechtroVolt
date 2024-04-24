@@ -14,7 +14,7 @@ const LandingScreen = () => {
             <p>
               A student-led non-profit organization and registered charity. We
               aim to raise money and provide supplies for students who showcase
-              immense promise in their engineering projects. In addition, we
+              immense promise in their STEM projects. In addition, we
               host events and workshops with companies to provide a learning
               opportunity for underprivileged kids. All earnings and proceeds
               will go towards charity.

@@ -1,0 +1,537 @@
+Accountability Framework
+I will use the framework provided by Grant and Keohane to evaluate the accountability of FIFA.
+Grant and Keohane created a framework based on “7 discrete accountability mechanisms that
+actually operate in world politics on the basis of which improved practices of accountability could
+be built” (2005, p. 35).
+- Hierarchical accountability: This refers to the ability of superiors to exercise power over their
+subordinates. Examples of this include removal from office, task constraints, and adjustments in financial compensation.
+7
+- Supervisory accountability: This refers to the ability of organizations to hold other organizations accountable through established relationships. An example of this is the World Bank
+being supervised by other organizations, or networks and firms holding state agencies
+accountable -through political processes - for decisions relevant to a firm’s interests.
+- Fiscal accountability: This refers to the ability of funding agencies to exercise control over
+money in an organization. Examples of this include the United Nation’s reliance on government appropriations to fund parts of its activities.
+- Legal accountability: This refers to the ability of laws -or legal mechanisms -to hold agents
+accountable. An example of this is FIFA being a subject to Swiss law because it is headquartered there.
+- Market accountability: This refers to the ability of investors and consumers to exercise influence and accountability by using market forces. For example, an investor may stop investing in countries whose policies they dislike.
+- Peer accountability: This refers to the ability of an organization’s counterparts to evaluate
+one another. For example, organizations that are poorly evaluated by their peers will have
+more difficulty cooperating and producing their desired result.
+- Public reputational accountability: This refers to the ability of the public to punish organizations by giving them bad reputations. Grant and Keohane refer to reputations as a form of
+“soft power,” defined as “the ability to shape the preferences of others.”
+Equilibrium Model
+I will use Mungiu-Pippidi’s equilibrium model to measure the control of corruption of FIFA. If
+an organization has low of control of corruption, then the organization will have high levels of
+corruption. Referencing the model, “when costs are low and opportunities are high, it is rational
+for individuals to be corrupt” (Mungiu-Pippidi, 2015b). The model expands on a previously established anti-corruption model by Klitgaard:
+Corruption = Monopoly + Official Discretion - Accountability (Klitgaard et. al., 2000)
+Mungiu-Pippidi adds to this formula by saying that corruption is a function of the equilibrium
+between resources and constraints. The model is as follows:
+Corruption = (Power Discretion + Material Resources) - (Legal Constraints + Normative Constraints) (Mungiu-Pippidi, 2010).
+I am using this particular model because of its focus on power and constraints, which is particularly relevant for FIFA. The two sides of the equation can be seen as opportunities for corruption
+compared to constraints against corruption. Opportunities are composed of power discretion and
+material resources:
+Power discretion is power due not only to monopoly, but also to privileged access under power
+arrangements other than monopoly or oligopoly (ibid.). Examples include status groups, social
+orders, and cartels. Corruption is expected to be lower where power discretion is lower.
+Material resources refer to any resources that can be turned into spoils or that can be used
+to generate rents (ibid.). Examples include state assets, foreign aid, natural resources, and public
+sector employment. Material resources are relevant because corruption is dependent on the availability of these resources and their ability to be exploited.
+8
+Working Paper No. 59 The constraints in the model are legal and normative constraints:
+Legal constraints refer to an autonomous, accountable and effective judiciary able to enforce
+legislation, in addition to a body of effective and comprehensive laws -with agencies able to monitor their implementation (ibid.).
+Regarding normative constraints, the model uses existing societal norms that legitimize ethical universalism and monitor deviations from this norm. This can be through various channels
+including public opinion, media and civil society. For effective sanctions, Mungiu-Pippidi (2015b)
+says that a population of autonomous and critical citizens capable of collective action is needed.
+According to Grant and Keohane’s Seven Mechanisms of Accountability in World Politics, I
+expect FIFA to fulfill less than half of the aforementioned accountability mechanisms. According
+to Mungiu-Pippidi’s equilibrium model, I expect the opportunities for corruption to be larger than
+the constraints against it in FIFA. In addition, I expect legal constraints to be stronger than normative ones -largely due to prosecution against FIFA officials in the past -- but I still expect power
+discretion and material resource factors to outweigh this. This provides an environment ripe for
+reform in regards to strengthening accountability mechanisms in FIFA.
+Findings
+Grant and Keohane’s Accountability Framework
+Hierarchical Accountability
+FIFA suffers from hierarchical accountability issues both as an organization and internally. As an
+international organization, FIFA is not accountable to much. By having a monopoly on football’s
+most watched event, and sponsors and bidders that have shown unwavering commitment to
+FIFA and its broad message, FIFA has become almost completely unaccountable to national and
+regional football associations. In fact, these national and regional associations have become more
+dependent on FIFA as the sport has become more commercialized. Forster and Pope (2004) have
+proposed a hypothesis in an attempt to explain why organizations like FIFA face issues with governance. It is called the ends-means inversion hypothesis, where FIFA’s original objectives and
+its financial means of achieving them are inverted. FIFA was originally supported by membership
+fees and national federations, but increasing commercialization in sport (i.e. television rights) has
+fundamentally changed its relationship with its members. As a result, FIFA (as an organization in
+the context of the international system) suffers with major issues of hierarchical accountability.
+Additionally, FIFA has endured internal issues with hierarchical accountability in the past. Prior
+to reforms initiated following the ousting of former president Blatter, the accountability holder
+at FIFA - its president - and executive committee did not have to report to any higher authority.
+Unlike many of its peers, FIFA did not have a board of directors to report to, and the president was
+only accountable to a body that he led, the FIFA Congress (FIFA, 2010).
+Following Blatter’s departure in 2015, FIFA attempted to remedy this by initiating reforms to its
+governance structure setting out an ambitious plan in which it wanted to increase transparency
+and accountability. The reforms hinged on (i) generating a cultural change at FIFA, (ii) fostering
+greater participation of member associations and stakeholders and, (iii) reforming the principles
+9
+of governance. At the heart of the reform process was changing the governance structures and
+ethos. This was to be accomplished by:
+●	 Separating the political and Management Functions
+●	 Financial Transparency and Transparency of Compensation
+●	 Term Limits and Eligibility Checks
+●	 Promotion of the role of women in football
+Specifically, FIFA focused on reform in 6 areas that it saw as places to improve its accountability
+and corruption issues (FIFA, 2016).
+First, a new FIFA Council was created. Essentially the new political and administrative structure of FIFA, it was expanded from 24 to 36 members, in addition to the president. The Congress
+is tasked with electing the new president, while other members of the Council represent the respective confederations. The objective of this reform is to reduce the possibility of conflicts of
+interest, and make a clear separation between political decision-making and management.
+Second, eligibility checks were established as a check against the power of FIFA executives.
+“All the members of the Council are now subject to eligibility checks carried out by the Review
+Committee, a special commission within the newly created Governance Committee, formed by its
+chairperson, its deputy chairperson and one independent member. The members of the Governance Committee are in turn subject to eligibility checks carried out by the investigative chamber
+of the Ethics Committee” (Duval, 2017). Because FIFA does not have open, transparent elections,
+these checks are important in reigning in the power of its executives.
+Third, there was a need for reform in financial transparency processes. There is now a duty
+to disclose the individual compensation of the president, members of the Council and the Secretary General. This is especially relevant considering past allegations of FIFA executives manipulating the organization’s finances.
+Fourth, the role of the president was limited. The president now occupies a reduced role that
+is more ambassadorial than executive. He still wields influence and sets FIFA’s agenda, but it is in
+stark contrast to the role that former president Blatter occupied.
+Fifth, FIFA introduced term limits for its officials. “The President, the members of the Council
+and the members of the independent committees can serve their office for no more than three
+terms, whether consecutive or not, of 4 years each” (Art. 33 FIFA Statutes, 2010). The logic behind
+this is that term limits reduce the influence and power that tenured officials wield.
+Finally, FIFA announced its commitment to increasing the representation of women in the
+organization by making gender equality an explicit statutory objective and requiring each
+Confederation to have a seat for at least one woman at the FIFA Council.
+All of these reforms are much needed, on paper. FIFA has undoubtedly become more transparent
+and has enacted stricter accountability mechanisms against its executives. What is unresolved, however, is that FIFA still remains accountable to no one as an organization in the international system.
+Its institutional changes are still not being monitored by a strong, independent institution not at the
+mercy of the FIFA Council. As a result, FIFA has less incentive, and pressure, to fully commit to changing its internal structure. Thus, FIFA still receives a score of low hierarchical accountability.
+Supervisory Accountability
+FIFA’s structure lends little supervisory accountability to its member associations. There are
+three reasons why this is the case. FIFA members are associations connected to countries of
+regions in the world. Their relationships with national governments vary, unlike prominent in-
+10
+Working Paper No. 59 ternational organizations like the UN. For example, the United States Soccer Federation is loosely
+connected to the US government, while in other countries (particularly in the Global South) football governance is closely tied to the national governments. Second, the requirement in the FIFA
+statutes for super-majorities in procedural votes severely weakens the ability of member
+associations to supervise FIFA. The procedure is as follows: a vote of three-quarters of member
+associations is required to alter the agenda of a FIFA Congress, suspend a member association, or
+amend any FIFA statute. This, coupled with a lack of transparency - as most decisions are taken in
+private - weakens FIFA’s supervisory accountability. Finally, FIFA statutes allow FIFA to suspend
+national associations for “government interference”. This happened to the Belizean football
+association after the national government attempted to legislate its national football association
+under domestic laws, resulting in Belize’s suspension from World Cup qualifying (Al Jazeera, 2011).
+There is little incentive for national associations to play a supervisory role because they have
+too much to lose. FIFA has a monopoly on the World Cup and football, which can lead to negative
+repercussions if a government chooses to act against FIFA. The national government in question
+would suffer severe reputational harm. FIFA plays up this role by seeing itself as equal with national governments. As former chairman of FIFA’s Independent Governance Committee, Mark Pieth
+says: “They see themselves more as a government than as a multinational corporation” (Bradley,
+2012). In conclusion, FIFA has little semblance of supervisory accountability, primarily because its
+members have little power and national governments have little power to sanction FIFA. Switzerland is an exception, but it chooses not to hold FIFA accountable for many of its offenses. A
+collective action problem exists, where all members and national governments would be better
+off cooperating but fail to do so because of conflicting interests that discourage any joint action
+against FIFA. FIFA receives a score of low supervisory accountability.
+Fiscal Accountability
+Without looking into the details, the average person can probably assume that FIFA is weak in
+fiscal accountability - largely due to its array of allegations of financial mismanagement. Most of
+FIFA’s financial decisions suffer from a lack of transparency. FIFA releases an annual financial report
+and is audited under Swiss law, but many of its fiscal decisions are made in private (FIFA, 2017).
+FIFA’s financial accountability matters because it disburses funds to member organizations and
+is dealing with large sums of money in general. In its 2018 financial report, FIFA states that $4.36
+billion in investments were made in the football community in its latest financial cycle (2015-2018).
+Its assets amounted to $4.389 billion, which represents a 50 percent increase from the previous
+cycle, and FIFA’s reserves reached their highest ever level of $2.745 billion. 89 percent of FIFA’s
+2018 investments were made to football activities, which includes the FIFA Football for Schools
+initiative (FIFA Financial Report, 2018).
+As Pielke Jr. (2013), states in his paper on FIFA’s accountability issues, FIFA has a track record of
+spending money inefficiently and in a non-transparent way. It is clear that FIFA is very conscious
+of its past fiscal transgressions and the effect that this may have on their reputation and business
+dealings in the future. The question remains of whether FIFA will keep to these reforms, as there is
+still no clear body that is consistently holding FIFA accountable for its finances.
+FIFA has also created its own ‘tax bubble’ whenever it hosts a World Cup. Bidding nations are
+forced out of tax revenue by negotiating exemptions from income and sales tax, among other
+levies. For instance, Brazil lost about $530 million in tax revenue when it hosted the World Cup in
+2014 as a result of this practice (MacDonald, 2014).
+11
+In another example of FIFA’s lack of fiscal accountability, FIFA officials chose Qatar as the site of
+the 2022 World Cup despite it being the only high-risk option on the table. Qatar was also listed as
+having the potential of creating health risks for participators due to its climate in the summer. “According to an investigation...former FIFA executive committee member Mohamed bin Hammam
+of Qatar funneled $5 million to soccer officials so they would support Qatar’s bid” (Blake & Calvert,
+2014).
+Bin Hammam was already suspended from FIFA’s executive committee for similar actions. In
+2011, he allegedly attempted to bribe the twenty-five executives who were voting in the upcoming FIFA presidential election. FIFA suspended bin Hammam and asked those officials (who either
+did or did not accept the bribes) to come to an ethics committee hearing in Miami regarding their
+involvement. The officials had no actual obligation to attend the meeting and 18 of the 25 did not
+show up (Jones, 2011).
+FIFA internally investigated these scandals, but little came out it in terms of substantive reforms. If there is no accountability in important fiscal decisions, corruption will never be far away.
+FIFA receives a score of low fiscal accountability.
+Legal Accountability
+FIFA has been subject to a number of legal proceedings in the past. I will focus on the U.S. Department of Justice’s prosecution of FIFA officials in 2015.
+In May 2015, nine FIFA officials and five corporate executives were indicted for racketeering,
+conspiracy and corruption charges. The defendants included two FIFA Vice Presidents and the
+former Presidents of CONCACAF, demonstrating that the corruption was widespread. According
+to the U.S. Department of Justice :
+“The defendants charged in the indictment include high-ranking officials of the Fédération Internationale de Football Association (FIFA), the organization responsible for the regulation and
+promotion of soccer worldwide, as well as leading officials of other soccer governing bodies that
+operate under the FIFA umbrella. Jeffrey Webb and Jack Warner – the current and former presidents of CONCACAF, the continental confederation under FIFA headquartered in the United States
+– are among the soccer officials charged with racketeering and bribery offenses. The defendants
+also include U.S. and South American sports marketing executives who are alleged to have systematically paid and agreed to pay well over $150 million in bribes and kickbacks to obtain lucrative media and marketing rights to international soccer tournaments.” (DOJ, 2015)
+This case is significant because of the precedent it set in regards to extraterritorial jurisdiction
+and the ability for a government to hold FIFA indirectly accountable. The U.S. DOJ reasoned that
+their actions did not support a claim of judicial overreach. In their reasoning, they claimed that
+since two of the defendants were U.S. Citizens, one a U.S. permanent resident, three owned residences in the U.S., and the use of the U.S. banking system to facilitate the conduct in question
+was extensive, contact with the U.S. was not incidental. Additionally, it argued that CONCACAF
+activities directly affect U.S. football. Therefore, the U.S. has the right to apply the Foreign Corrupt
+Practices Act against the aforementioned officials.
+Critics of the U.S. claimed that this extraterritorial reach of U.S. law essentially means that U.S.
+jurisdiction extends everywhere. This is problematic because the U.S. can choose when to prosecute officials and meddle in the affairs of other countries and organizations. Proponents of this
+action argued that no other party is holding FIFA legally accountable. The charges that the U.S.
+12
+Working Paper No. 59 brought against the 14 officials are also crimes in Switzerland (BBC, 2015), where the government
+has direct jurisdiction, so why did the Swiss choose not to intervene?
+One way that FIFA avoids legal conflicts is by forbidding organizations that fall under its governance structure from suing it. This is limited, however, as states and organizations outside of
+FIFA’s influence can still pursue legal action. There is a precedent with the United States pressuring
+another major sports governance body - the International Olympic Committee (IOC) - to adopt
+reforms in wake of a bribery scandal. The IOC scandal involved university scholarships provided
+by the Salt Lake City Organizing Committee in an attempt to bring the 2002 Winter Games to Salt
+Lake City. It was also revealed that the scandal included favors related to the 1998 Nagano Games
+and 2000 Sydney Games. The United States Congress introduced legislation under the US Foreign
+Corrupt Practices Act, which made it illegal for US corporations to contribute to the IOC unless
+significant reforms were made (Pielke Jr., 2013). The United States was able to do this in part because this legal accountability mechanism is grounded in governance processes broader than the
+IOC itself. Likewise, this serves as an example by which FIFA can be held accountable through legal
+mechanisms already established in the international system.
+Legal accountability remains the biggest opportunity for stakeholders to hold FIFA accountable. This is largely because of preexisting frameworks that are already tested and in operation.
+The jurisdiction argument comes into play here. Technically only Swiss authorities have direct jurisdiction to bring legal proceedings against FIFA, but as shown in the 2015 prosecution of FIFA officials by the U.S. Department of Justice, FIFA can be significantly impacted by indirect jurisdiction.
+FIFA receives a score of high legal accountability.
+Market Accountability
+FIFA, being the controller of the World Cup and at the head of football, has no issues attracting
+sponsors. FIFA’s corporate sponsors for the 2018 World Cup in Russia included Adidas, Coca-Cola,
+Wanda, GazProm, Hyundai/Kia and Visa. These companies have a big stake in FIFA’s performance
+and reputation. Coca-Cola recorded a 6.4 percent jump in revenues for the first half of 2018 due
+to an influx of sales from the World Cup (Wall, 2018). Adidas, where football makes up about 10
+percent of the company’s sales annually - translating to more than 2 billion euros per year- posted
+a second quarter revenue of 5.26 billion euros (a growth of 10 percent) (Boston, 2018). Following
+this logic, these corporations should be especially concerned with FIFA’s problems with accountability and corruption. It is not surprising, then, that many of these companies have expressed
+concern with the allegations of corruption against FIFA.
+Following the news that the U.S. government indicted top football officials on charges of racketeering, wire fraud and money laundering, FIFA’s leading sponsors issued the following statements:
+“Our sponsorship has always focused on supporting the teams, enabling a great fan experience, and inspiring communities to come together and celebrate the spirit of competition and
+personal achievement,” Visa, one of FIFA’s partners, said in a statement. “And it is important that
+FIFA makes changes now, so that the focus remain on these going forward. Should FIFA fail to do
+so, we have informed them that we will reassess our sponsorship.” (Gregory, 2015)
+Coca-Cola said the corruption scandal had “tarnished the mission and ideals” of the World Cup.
+“This lengthy controversy has tarnished the mission and ideals of the FIFA World Cup and we have
+repeatedly expressed our concerns about these serious allegations. We expect FIFA to continue to
+address these issues thoroughly.” (ibid.)
+13
+Time Magazine probed some of FIFA’s key sponsors further: FIFA partners Adidas, Coca-Cola, Hyundai/Kia and Visa, and World Cup sponsors Anheuser-Busch InBev and McDonald’s. They
+asked: “how can your company support an organization that is staging an event in Qatar, a place
+where a humanitarian crisis has unfolded during World Cup preparations, a place where, according to one report, at least 1,200 people have died during World Cup preparations, a place where
+migrant workers were reportedly not allowed to go home to mourn earthquake victims in Nepal?”
+(ibid.)
+Tellingly, no company made any executive available to answer this question. The issue seemingly present here is that none of FIFA’s corporate sponsors have it in their interest to hold FIFA accountable for questionable behavior when they profit tremendously from FIFA in its current state.
+History shows that companies are inconsistent in their condemnation and sanctioning of athletes
+and sports organizations. For example, tennis star Maria Sharapova’s positive drug test prompted
+an array of reactions from her sponsors. Sharapova tested positive for the recently banned substance Meldonium in early 2016 following a defeat at the Australian Open. Swiss watchmaker Tag
+Heuer immediately cut ties with Sharapova. Nike suspended their relationship pending additional
+details by an anti-doping tribunal. Sharapova’s racquet sponsor, Head, issued a statement from
+its CEO Johan Eliasch, calling Sharapova’s suspension by the International Tennis Federation anti-doping tribunal “a flawed decision” (Sport, 2016). He then reiterated that Meldonium should not
+be on WADA’s (World Anti-Doping Agency) banned list, claiming that there was a lack of scientific
+evidence for its performance-enhancing effects and little research on its effect on the health of an
+athlete (HEAD Tennis, 2016).
+While we seem to have entered a period where companies have less tolerance for scandals in
+the wake of increasing scrutiny from the public (Thomasson, 2016), FIFA has largely managed to
+avoid this fate. There is an argument to be made that FIFA’s share of football, in combination with
+lucrative opportunities associated with the world’s most watched sporting event, provide little
+incentive for companies to hold FIFA accountable. As a result, FIFA has little market accountability
+although this is a mechanism that has significant power, in theory. FIFA receives a score of low
+market accountability.
+Peer Accountability
+Who are FIFA’s peers? FIFA has only one direct peer organization, the International Olympic
+Committee (IOC). The two share NGO status, both have their headquarters in Switzerland and
+both are globally recognized as the head of their respective events and sports. One can argue that
+FIFA has many peers in the NGO world in size and influence, but FIFA occupies a special place in
+football. Transparency International is an example of an organization that has focused attention
+on corruption in FIFA, providing concrete recommendations of how to reform FIFA’s governance
+structure (TI, 2011). FIFA has been receptive, but has not embraced these calls for substantive reform, exemplified by the length of their short relationship. Additionally, Transparency International does not have the influence and power to enforce any kind of accountability on FIFA, so it does
+not serve as a good example of a peer organization holding FIFA accountable for its malpractices.
+The International Tennis Federation (ITF) is another example of an international sports body in
+charge of governing a global sport - tennis. The ITF has much less power and control over tennis,
+however. It partners with the Association of Tennis Professionals (ATP) and Women’s Tennis Association (WTA), who control the men’s and women’s tours. The ITF runs the four largest and most
+14
+Working Paper No. 59 prestigious events in tennis, but these tournaments do not have a monopoly over tennis in the
+same way that the World Cup dwarfs other football events. Most importantly, the ITF operates on
+an equal level with the ATP and WTA, unlike FIFA and its member associations.
+Concluding this section, it is relatively clear - FIFA only has one direct peer organization. There
+is no evidence that FIFA is accountable to this peer, or any other international organization in the
+world. FIFA receives a score of low peer accountability.
+Public Reputational Accountability
+Before looking at FIFA’s public reputational accountability, it is important to note that reputation is involved in all the other forms of accountability (Grant & Keohane, 2005, p. 37). Reputation
+is a form of “soft power,” defined as “the ability to shape the preferences of others” (Nye, 2004, p.5).
+In 2014, UEFA executive committee member Michael van Praag told Blatter he should not be a
+candidate for re-election because FIFA’s reputation has been so damaged during his presidency
+(Press, 2014). What does this actually mean? It is not clear if football fans care about FIFA’s governance issues. According to FIFA, World Cup viewing figures rose from 3.2 billion viewers in 2014 to
+3.572 billion in 2018. This is despite Blatter’s resignation, allegations of corruption with the 2022
+World Cup in Qatar, and human and labor rights violations against workers in the construction of
+facilities for the World Cup at bidding sites (FIFA, 2018a).
+FIFA has no direct accountability to its public (Pielke Jr., 2013, p.13). Football remains the world’s
+most popular sport, and its fans continue to watch and buy products related to it. This combined
+with the fact that there have been little demands for reform from the public leave the impression that FIFA has little public reputational accountability. Last year, it was revealed that EA Sports
+video game FIFA, modeled after FIFA soccer, crossed 260 million in total sales worldwide (Grubb,
+2018). It remains one of the most popular and successful gaming franchises despite any reputational harm that FIFA has suffered as an organization. There is little reason to believe that FIFA’s
+public reputation has been a significant factor in any discussions involving reforms. FIFA receives
+a score of low public reputational accountability.
+Equilibrium Model: Opportunities vs. Constraints
+Power Discretion
+For this section, I will evaluate FIFA’s power discretion by looking at FIFA’s governance structure,
+the strength of its accountability mechanisms, and its power structure. The distribution of power
+in FIFA is centered around the president, FIFA Congress and FIFA Council. The Congress is in charge of FIFA’s governing statutes and their implementation, the production of its annual report,
+approval of new national associations, and the election of the president, general secretary, and
+the other members of the Council. The Council, chaired by the president, is the decision-making
+body of FIFA. It is in charge of deciding who hosts the World Cup. The president is responsible for
+daily administrative tasks and sets the agenda. Also in place is the Emergency Committee, Ethics
+Committee, Finance Committee, Disciplinary Committee, and Referees Committee. All are, in theory, checks against abuses of power. As previously mentioned, FIFA’s governance structure was
+reformed following Blatter’s ousting in 2015 in an attempt to decentralize power and make the
+organization more transparent and accountable.
+Two key features of these reforms included separating power and establishing term limits for
+officials. The restructuring of the Council and introduction of term limits help decentralize power
+in the organization and prevent an accumulation of power and influence by tenured officials.
+15
+By using Grant and Keohane’s accountability framework, I was able to show that FIFA suffers
+from low accountability in six of the seven mechanisms. According to Grant & Keohane (2005),
+“the concept of accountability implies that the actors being held accountable have obligations
+to act in ways that are consistent with accepted standards of behavior and that they will be sanctioned for failures to do so” (pgs. 29-30). By receiving a low score in a majority of categories, this
+metric demonstrates that power discretion is high in FIFA.
+While FIFA recognizes that its power discretion is high, demonstrated by reforms initiated following a scandal involving its highest officials, it is unclear whether the reforms in place will decrease power discretion. FIFA has a track record of initiating reforms, or including partners tasked
+with reforming the organization, and failing to follow through and create any real change. Following FIFA’s failure to follow two of TI’s recommendations, TI cut ties with FIFA citing a conflict of
+interest with the official overseeing reforms and FIFA (BBC, 2011).
+Concluding this section, FIFA’s reforms limit its power discretion, but the organization still has
+improvements to make.
+Material Resources
+In this section, I will analyze FIFA’s material resources by looking at its financial reserves, fiscal
+accountability and transparency, and economic rents. According to its 2017 Financial Report (covering the financial cycle of 2015 to 2018), FIFA’s total revenue was budgeted at $5.656 billion at
+the end of 2017. For the same time period, FIFA accounted for $930 million in reserves, which was
+a decrease from its $1.048 billion in reserves at the end of the previous year (FIFA, 2017, p.20).
+This can be attributed to the (lack of) World Cup, when FIFA generates the majority of its revenue.
+According to FIFA, its “position is healthy and sustainable, with strong liquidity and sufficient reserves.” It “expects to close the cycle by the end of 2018 with reserves above the level of 2014. Forecasting the future, “FIFA expects negative results from 2019 to 2021, followed by a positive profit
+in 2022” due to the 2022 World Cup (ibid.). Accordingly, FIFA expects its reserves to continually
+increase, albeit moderately.
+As previously referenced, FIFA generates the majority of its revenue through media rights associated with the World Cup. This is the primary reason for the size of its financial reserves. FIFA’s large financial reserves create problems with fiscal accountability and encourage rent seeking behavior with its members. As discussed under fiscal accountability, there are no strong mechanisms in
+place to hold FIFA fiscally accountable. It is dealing with large sums of money in a non-transparent
+way, with control over one of the world’s leading sporting events and the power to exercise control over financial policies affecting it.
+A resource curse is a paradox that countries, or organizations, with an abundance of material
+resources tend to have less economic growth, less democracy and worse development than those
+with fewer resources (Mittelman, 2017). While it is unlikely for some international organizations
+to suffer from a ‘resource curse’ due to a lack of abundance of material resources, FIFA is different.
+Because it occupies a unique place, being a non-profit sports international organization with the
+ability to make profit over a widely popular sport it has effective control over, FIFA generates large
+amounts of money and has access to a wide range of resources (i.e. the World Cup). This is problematic because it can be used to generate rents from its members (Mungiu-Pippidi, 2010). An
+16
+Working Paper No. 59 economic rent is defined as “the return for the use of a factor in excess of the minimum required to
+bring forth its service” (“economic rent”, n.d.). In FIFA’s case, this translates to member association
+officials engaging in vote-buying behavior based on the perception that the World Cup will bring
+financial benefits to them. The investment sums involved in awarding the World Cup are high and
+largely borne by taxpayers, making it fertile ground for rent seeking opportunities. The bribed
+officials mostly come from countries where bribery is part of everyday life, helping reduce the
+risk of being caught. This aids in the normalization of corrupt practices. “These as well as certain
+monetary guarantees and favorable tax treatments FIFA demands can create burdens that may
+leave the citizens of the organizing countries a lot worse off especially when the ‘lucky’ winners
+already suffer from social and economic malaise” (Boudreaux, Karahan & Coats, 2016, p.868). A vicious cycle is created where FIFA’s material resources enable rent seeking behavior of its members,
+feeding FIFA’s corrupt behavior and increasing the incentive to seek rents in future World Cup site
+selection processes.
+Legal Constraints
+For the purpose of this section, I will evaluate FIFA’s legal constraints by looking at oversight
+institutions, anti-corruption policies, prosecution for corruption and financial auditing. Legal constraints are the most used variable in controlling corruption in FIFA. This is because an existing framework is in place that supersedes FIFA as an organization. Internally, FIFA has a legal committee
+whose role is to “analyse basic legal issues relating to football and the evolution of the Statutes
+and regulations of FIFA, the Confederations and Members (FIFA, 2019). Regarding anti-corruption
+policies, it is interesting to note that in 2018, FIFA revised its code of ethics to remove corruption
+as an ethical violation. It retained bribery, misappropriation of funds and manipulation of competition as offenses, but established a ten-year statute of limitation on those offenses. KPMG Switzerland has been responsible for auditing FIFA’s financial records since 1999. According to Swiss law,
+an auditor is required to report any irregularities discovered during the auditing process (Miller,
+n.d.). However, KPMG Switzerland is not responsible for auditing the financial records of national
+soccer associations and confederations. They instead select their own local auditors. (ibid.)
+Many of FIFA’s actions are not covered by traditional legal methods, but instead by its own laws.
+For example, Cristiano Ronaldo’s transfer from Real Madrid to Juventus in 2018 was agreed under
+FIFA transfer rules, not Spanish, Italian nor EU law (FIFA, 2018b). Additionally, football disputes are
+generally resolved by special sports arbitration tribunals, which differ from most industries. In this
+way, it can be argued that FIFA has built its own legal system. The upside is that it crosses borders,
+like football. The downside is that there is minimal oversight. This, in combination with opportunities for corruption, leaves FIFA vulnerable to corrupt practices.
+FIFA is not immune from litigation by states, however. Because its headquarters is in Switzerland, FIFA is subject to Swiss law. In theory, any offense that FIFA commits that is criminal under
+Swiss law is liable for prosecution. The power of a state’s laws only works when they are actually
+enforced, though. This has been a main point of criticism of Switzerland by FIFA’s observers (Ruiz,
+2015). Finally, the issue of extraterritorial jurisdiction has become increasingly relevant to FIFA. The
+2015 prosecution of FIFA officials by the U.S. Department of Justice - covered in more detail under
+Grant and Keohane’s accountability framework - set a precedent that can possibly be used in the
+future as a check on FIFA.
+17
+Normative Constraints
+For normative constraints, I will look at how fans have reacted and acted against FIFA’s scandals
+and the effect of pressure from the press on reforms within FIFA. In 2017, a survey was created by
+TI and Forza Football to gauge the public’s perception of FIFA following its 2015 corruption scandal and subsequent replacement of Blatter with Infantino. Over 25,000 fans from more than 50
+countries were surveyed, and the following results were recorded (TI & FF, 2017):
+- 53% still have no confidence in FIFA, an improvement from a 2016 TI poll that showed that
+69% of fans had no confidence in FIFA under Blatter
+- 25% think that new president Infantino has restored trust in FIFA
+- 33% think FIFA is actively working against corruption in football
+- 15% have more confidence in FIFA now than in the 2015 corruption scandal.
+According to the results of this survey, it can be concluded that worldwide, the public has a
+negative perception of FIFA. If we compare this to 2018 World Cup viewing figures, we get a more
+accurate picture of the effectiveness of this constraint. Germany was the country with the least
+confidence in FIFA at 70%. 21.32 million German fans watched the final between France and Croatia. While, this is a decrease from the record 34.57 million that watched Germany defeat Argentina
+in 2014, these are still strong viewing figures for the German television market (ARD-Werbung,
+2018). German television ratings in relation to the World Cup appear to fluctuate depending on
+Germany’s participation. While Germany appears as the country with the least confidence in FIFA,
+according to the joint survey by TI and Forza Football, World Cup viewing figures show that this is
+not translating to the public boycotting FIFA-related broadcasts.
+In addition, fans may not have the necessary influence to impact an organization like FIFA.
+“Sport fans themselves, although they have access to various voluntary organizations, frequently
+lack the resources, unity of purpose, and persistence to intervene significantly in sports governmental processes, although there are some signs of enhanced popular FIFA reform activism” (Rowe,
+2016, p.525). Collectively, fans represent a formidable check on a sports organization because they
+help generate revenue for companies and the organization. As previously mentioned, for effective
+sanctions a population of autonomous and critical citizens capable of collective action is needed.
+FIFA’s fans suffer from a collective action problem where the actions of one fan are not perceived
+to have any effect on FIFA because no other fans will commit to the same actions. The result is that
+no action is taken, and FIFA’s fans lose their sanctioning power.
+The role of the press is another indicator for normative constraints against corruption. Sports
+journalists play a big role in holding FIFA accountable for its offenses. Coverage of FIFA has been
+problematic, however. “Coverage of FIFA...can be described as derivative, superficial, and self-serving” (Rowe, 2016, p.516). The news media “have mostly reported and dramatized stories that have
+been generated by other institutional entities, having played little material role in the initial exposure of FIFA’s various scandals” (ibid.). In many cases, “media - especially mainstream sports journalists - have actively or passively colluded with FIFA and other sports organizations by routinely
+neglecting or downplaying such matters in their everyday conduct of covering sport” (ibid.). A free
+and effective press should report facts and transmit information in an objective fashion. The press
+is regarded as the Fourth Estate, a part of society that wields an indirect but important influence
+on society even though it is not a formally recognized part of the political system (“fourth estate”,
+n.d.). According to Rowe (2016), their strategic silence, followed by uninhibited criticism of FIFA
+and, especially, of its president, has only given weight to critiques that the media often do not
+routinely discharge their skeptical public sphere duties. Similar to average citizens, a critical and
+autonomous press is needed for sanctions to be effective.
+18
+Working Paper No. 59 Evaluation
+Based on the qualitative analyses above, the hypothesis can be confirmed. FIFA has low accountability in six of the seven mechanisms in Grant and Keohane’s framework. Based on the equilibrium model, FIFA has strong opportunities to engage in corruption. It scores high in power
+discretion due to its organizational structure and how it centralizes power, and its lack of hierarchical accountability. Recent reforms may change this, but the focus will be on how well they are
+implemented. FIFA also scores high in material resources because of its high financial reserves,
+lack of fiscal accountability, and high incentive to engage in rent-seeking behavior. Unlike power
+discretion, opportunities for improvement do not have the same prospects because the mechanisms in place do not lend themselves to better fiscal accountability.
+Under constraints, FIFA scores medium-high for legal constraints. Many of its actions are not
+covered by traditional legal methods, which can be problematic because of FIFA’s issues with accountability. FIFA, however, does not operate above existing legal structures. It is bound by Swiss
+law and vulnerable to extraterritorial litigation. FIFA scores low in normative constraints. A collective action problem exists for its fans, and its partners have little incentive to constrain FIFA when
+fans continue to consume their own and FIFA’s products. In addition, media has little to hold FIFA
+accountable other than release sensationalized stories around every FIFA scandal. Therefore, FIFA
+suffers from low accountability and a control of corruption that favors opportunities to engage in
+corruption over constraints against it.
+Policy Recommendations
+Based on the qualitative analysis above, I will now present policy recommendations in the form
+of three possible scenarios for FIFA: a low intensity intervention, a medium intensity intervention,
+and a high intensity intervention. I will use the recommendations to show how they will impact
+FIFA’s accountability and control of corruption by briefly reutilizing both of the previously used
+models.
+Retain the Status Quo - Low Intensity Intervention
+The first possible scenario for FIFA is to retain the status quo. As evident in the qualitative analysis, accountability in FIFA is low and its susceptibility to corruption is high. If FIFA chooses to retain
+the status quo, much of this will go unchanged. FIFA officials and members will still have a large
+incentive to engage in rent seeking behavior, transparency will still remain an issue, and fans and
+sponsors will continue to support FIFA, enabling this cycle of corruption and lack of accountability. Continuing with the status quo means that FIFA will still receive a failing grade in six of the
+seven accountability mechanisms, leaving its power unchecked. It will essentially be up to FIFA to
+follow through on the recent reforms it has made, which will be difficult when its accountability
+mechanisms and constraints against corruption remain weak in contrast to opportunities to engage in corrupt behavior.
+If FIFA chooses to retain the status quo, it will continue to score low in six of the seven accountability mechanisms. Legal accountability will remain unaffected as the strongest mechanism, largely due to existing legal frameworks that supersede FIFA. FIFA will still lack hierarchical, peer,
+public reputational, fiscal, market, and supervisory accountability. The new reforms that FIFA has
+recently put in place will attempt to improve its hierarchical accountability, but their implementa-
+19
+tion will still be dependent on FIFA. With no additional reforms, FIFA will still have little incentive
+to do so, as other accountability mechanisms will remain weak.
+Constraints will also remain weaker than opportunities if FIFA chooses inaction. The collective
+action problem will persist among its fan base, giving FIFA free reign to engage in whatever behavior it chooses as its revenue base will remain unaffected. Low market accountability will mean
+that sponsor pressure will continue to be a weak and under-utilized constraint. As previously referenced, legal constraints will remain strong, but limited in practice as excessive legal action can
+create a backlash. The U.S. Supreme Court has in recent years begun imposing limits on the application of federal laws to extraterritorial conduct (Morrison, 2010). Low fiscal accountability will
+equate to high levels of material resources. FIFA will still have an incentive to generate economic
+rents, possess large financial reserves, maintain its protective non-profit status, and continue to be
+non-transparent. Likewise, power discretion will also remain high, but may be affected by recent
+reforms depending on FIFA’s implementation.
+In conclusion, if FIFA chooses to keep with the status quo, accountability will remain low in six
+of the seven categories and susceptibility to corruption will remain high.
+Internal Reforms - Medium Intensity Intervention
+The second possible scenario for FIFA is to initiate internal reforms like: .
+• Reduce the Council size and appoint more independent members to reduce red tape and
+conflicts of interest.
+• Require FIFA and all member associations to use the same auditor and release financial information more frequently to increase transparency. Additionally, hold an annual press conference with international press evaluating each fiscal year.
+• Mandate internal ethics training for all FIFA employees.
+• Outsource anti-corruption work to prevent any conflicts of interest, enhancing anti-bribery
+measures in areas of high risk (i.e. bidding rights, remuneration, tv and sponsorship contracts,
+ticket sales).
+• Give out harsher punishments to offenders. (i.e. ban member countries that engage in vote
+buying and undergo mandatory ethics training with an independent anti-corruption watchdog).
+• Sign the INGO Accountability Charter and establish a forum for football fans to submit ideas
+for how to make the game a greater source of social good.
+If FIFA chooses to follow a medium intensity intervention, it will see increases in accountability
+in four of the seven mechanisms. Hierarchical accountability will increase as the size of the Council
+is limited with the addition of independent members, reducing conflicts of interest. Fiscal accountability will increase as requiring FIFA and each regional confederation to use the same auditor will
+increase financial transparency. Legal accountability, already high, will increase with the addition
+of FIFA as a signatory to the INGO Accountability Charter. Although the charter is non-binding
+and soft law, FIFA’s fellow signatories would be a source of pressure for it to adhere to the charter’s principles. FIFA’s public reputational accountability would slightly increase with the addition
+of fan input and the implementation of the above reforms. FIFA can enjoy reputational gains by
+setting an example for other international sporting bodies. FIFA will still receive low accountability
+scores in the supervisory, peer and market accountability categories.
+Constraints against corruption will strengthen, but opportunities will remain relatively open
+with the addition of the above recommendations. Normative constraints will strengthen in three
+20
+Working Paper No. 59 areas. The annual press conference will not only increase transparency, but will allow the press to
+be more critical of FIFA and engage with the organization in times unrelated to the latest scandal
+or match result. Increased fan participation through the fan forum will allow fans to organize and
+present themselves as a more unified body, improving the collective action problem that persists.
+Mandatory ethics training will promote the norm of ethical universalism within the organization,
+discouraging its officials from engaging in corrupt practices. Legal constraints will strengthen
+even more as outsourcing anti-corruption monitoring will provide an additional legal check on
+FIFA. Harsher punishments for offenders will also increase legal constraints against corruption.
+Power discretion will be slightly decreased with a reduced Council and independent members,
+while material resource levels will not be significantly affected. In conclusion, a medium intensity
+intervention will make FIFA more accountable, elevating it to a ‘passing grade,’ but will not significantly constrain opportunities to engage in corrupt behavior.
+Complete Reorganization - High Intensity Intervention
+The third possible scenario for FIFA is to completely restructure the organization. Below is a list
+of high intensity reforms that can be implemented:
+• Change FIFA’s non-profit status.
+• Restrict free tax bubbles imposed on bidding countries.
+• Collaborate with other sports governance bodies to create an international anti-corruption
+body (similar to anti-doping body, WADA).
+• Increase the percentage of revenue going towards football development from 72% to 90%,
+matching the International Olympic Committee.
+• Divide FIFA into two separate bodies - one in charge of ethical matters and the other in charge of commercial matters.
+• Establish a Fan Council composed of 24 members (4 from each of the 6 confederations) with
+an equal proportion of men to women.
+If FIFA chooses to follow a high intensity intervention, it will see an increase in accountability
+in six of the seven mechanisms. Hierarchical accountability will increase as the addition of the Fan
+Council reduces the power of executives and the president. A significant reason why FIFA lacks
+hierarchical accountability is the transformation of its relationship with its members. The reallocation of revenue from FIFA to its member associations and football development will reduce the
+degree of dependency that member associations currently have to FIFA. Supervisory accountability will increase as a result of FIFA’s division into independent two bodies. FIFA’s ethical body will
+be able to play a supervisory role over the organization’s commercial division.
+Fiscal accountability will increase as a result of stronger transparency and disincentives to engage in rent seeking behavior. The restriction on free tax bubbles and the imposition of organizing
+costs on the bidding nation will limit the revenue that FIFA and its corporate partners make from
+the World Cup, and redirect it to bidding countries and local taxpayers. This is significant because
+this is the group most affected by FIFA’s lack of fiscal accountability. FIFA will be forced to comply
+with local tax laws, and its corporate partners will no longer be able to undercut local vendors.
+Legal accountability will increase with the addition of the anti-corruption oversight body. Market
+accountability will increase indirectly due to the free tax bubble restriction. The eradication of this
+free tax zone will transform FIFA’s relationship with its corporate partners. There will be less incentive for them to participate because of higher tax rates. For those that choose to continue their relationship with FIFA, they will have less incentive to blindly support FIFA’s transgressions because
+they will be making less money off of them (Repucom, 2014). Public reputational accountability
+will increase as FIFA’s fan base becomes more involved in the governance process. Peer accountability will not be significantly impacted because FIFA still will have no real peer organization.
+Constraints against corruption will limit opportunities to engage in corrupt practices with the
+implementation of the above recommendations. Normative constraints will strengthen due to an
+active and engaged fan council and more critical corporate partners. Companies tend to follow
+fan (or consumer) behavior, so a more active fan base will influence company behavior. Legal
+constraints will strengthen due to FIFA’s division into two independent bodies, the creation of
+an international anti-corruption watchdog, and its change from non-profit status. FIFA will be accountable to more laws and regulations as a result of these additions. Power discretion will decline
+with FIFA’s new ethical and commercial bodies, in addition to the newly empowered fan council.
+Material resources will decrease with the reallocation of FIFA’s revenue, its change from non-profit
+status under Swiss law, and the removal of free tax bubbles on bidding nations. FIFA will no longer
+be able to use loopholes to unfairly profit, discouraging corrupt behavior. In conclusion, a high
+intensity intervention will make FIFA more accountable and constrain opportunities to engage in
+corrupt practices, elevating FIFA’s reputation and allowing it to be a model for other international
+sports bodies.
+Conclusion
+The field of sports governance is relatively new and under researched. Future research can improve upon the existing literature on sports governance structures, accountability in international sporting bodies and corruption in international organizations. While there is research on the
+accountability of international organizations and the control of corruption in states, there is little
+on the link between the two specifically in regards to international organizations. I tried to fill this
+gap by using Grant and Keohane’s ‘Seven Mechanisms of Accountability in World Politics’ to evaluate FIFA’s accountability and Mungiu-Pippidi’s equilibrium model to evaluate the organization’s
+control of corruption. I then generated policy recommendations in the form of three scenarios,
+varying by intensity of intervention, and evaluated them based on the two aforementioned models to demonstrate the most effective solutions to FIFA’s problems. Changing a large organization requires a shift in both its mission and culture. This is all the more difficult when an organization is practically free from formal accountability mechanisms. FIFA’s size and scope places it in
+this category. For FIFA to fix its corrupt culture, it needs far stronger accountability mechanisms in
+place to control corruption.
+
+write a resolution that helps FIFA with its corruption (be specific)
